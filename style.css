@@ -1,0 +1,13 @@
+body{
+    background-image: url(images/background.jpg);
+}
+
+.btn {
+    background-color: blue;
+    border-radius: 50px;
+    width: 100px;
+}
+
+.lst{
+    list-style-type: none;
+}
